@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kumar Rohit
+- 👋 Hi, I’m Rohit Kumar
 - 👀 I’m interested in working on projects in the field of Machine Learning, Computer Vision, Website Scraping using Python. I am also interested in competitive programming.
 - 🌱 I’m currently learning to work with various APIs
 - 💞️ I’m looking to collaborate on projects in my area of interest
